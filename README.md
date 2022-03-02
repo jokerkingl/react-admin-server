@@ -2,6 +2,8 @@
 使用 yarn add 根据 package.json 下载以来 node modules
 使用命令 yarn start 即可开始运行
 
+将public文件夹中的upload保留 其他删除 即为后端代码
+
 前端代码
 https://github.com/jokerkingl/react-admin-client
 
